@@ -1,3 +1,4 @@
 api_config_twitter.yml
-./img/result
-./csv
+img/result/
+csv/
+__pycache__/
